@@ -1,2 +1,7 @@
-# magic-8-ball
-a simple magic 8 ball using html, css, and js
+# Magic 8 Ball
+
+The infamous Magic 8 Ball brought back to life using HTML, CSS, and Javascript
+
+## Showcase
+
+![](showcase/showcase.mov)
